@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Tunansh Vatsa
 
 - 💻 Aspiring Programmer
-- 🚀 Passionate about AI & Web Development
+- 🚀 Passionate about AI & Web Development(MERN)
+- Currently learning System Design and RAG 
 
 ## 🛠 Skills & Technologies
 
